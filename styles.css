@@ -1,0 +1,44 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    background-color:#fbfbfb;
+        
+}
+a {
+    color:black;
+}
+
+.photo {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    padding-top: 10px;
+}
+
+header {    
+    line-height: 10px;   
+}
+
+.contacts {
+    font-size: 16px;
+}
+
+
+.summary {
+    padding: 10px 200px;
+    text-align: justify;
+
+}
+
+h2 {
+    color: #A64B00;
+}
+
+footer {
+    font-size: 15px;
+}
+address {
+    font-size: 19px;
+    line-height: 20px;
+}
