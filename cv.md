@@ -25,9 +25,9 @@ I am constantly learning  information related to Frond-end and always love to le
 
 ## Skills
 
-* Photoshop, Lightroom, Illustrator;
-* CSS;
+* Photoshop, Lightroom, Illustrator,Figma;
 * HTML;
+* CSS;
 * JavaScript;
 * UI Design;
 * GIT;
@@ -47,7 +47,9 @@ I don't have enough experience in Front-End Development at the moment. I worked 
 >***Online:***
 
 > English courses: Puzzle English, Duolingo, Lingualeo;
-
+> Html Academy: (https://htmlacademy.ru/profile/id1612389/achievements);
+>Glo Academy;
+>Udemy;
 >RSSchool at the moment;
 
 
