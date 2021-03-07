@@ -1,17 +1,24 @@
-body {
+
+.wrapper   {
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
     text-align: center;
     background-color:#fbfbfb;
-        
-}
-a {
-    color:black;
+   margin: 0 auto;
+    width: 900px;
 }
 
+a {
+    color:black;
+    text-decoration: none;
+}
+
+.header-contacts {
+    padding-top: 20px;
+}
 .photo {
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
     border-radius: 50%;
     padding-top: 10px;
 }
@@ -26,7 +33,7 @@ header {
 
 
 .summary {
-    padding: 10px 200px;
+    padding: 10px 0 ;
     text-align: justify;
 
 }
@@ -37,8 +44,54 @@ h2 {
 
 footer {
     font-size: 15px;
+    background-color: darkgrey;
 }
 address {
     font-size: 19px;
     line-height: 20px;
+}
+
+.footer-link {
+    display: inline-block;
+    list-style: none;
+    text-align: center;
+   
+}
+
+.colored-link,h4, h5 {
+    color:darkgrey;
+}
+.footer-wrapper {
+    width: 640px;
+    margin-left: auto;
+}
+
+.footer-content {
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    
+    margin: 0 auto;
+}
+
+.footer-about-wrapper {
+    width: 1900px;
+    text-align: center;
+    margin-right: 200px;
+}
+
+.rsschool-logo-image {
+    margin: 20px 0;
+    width: 80px;    
+    
+}
+
+h4, h5, h6 {
+   
+    margin: 5px auto;
+}
+
+
+h6 {
+    margin: 0 143px;
 }
